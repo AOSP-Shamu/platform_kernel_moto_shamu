@@ -1,0 +1,8 @@
+Code-Review+1: Alexander Levitskiy <sanek@google.com>
+Code-Review+2: Dmitry Shmidt <dimitrysh%android.com@gtempaccount.com>
+Verified+1: Dmitry Shmidt <dimitrysh%android.com@gtempaccount.com>
+Submitted-by: Dmitry Shmidt <dimitrysh%android.com@gtempaccount.com>
+Submitted-at: Mon, 13 Aug 2012 19:39:33 +0000
+Reviewed-on: https://android-review.googlesource.com/40838
+Project: kernel/msm
+Branch: refs/heads/android-3.4
